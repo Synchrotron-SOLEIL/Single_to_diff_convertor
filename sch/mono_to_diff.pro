@@ -1,4 +1,4 @@
-update=19/06/2015 18:24:10
+update=23/06/2015 12:07:15
 version=1
 last_client=kicad
 [general]
@@ -28,6 +28,16 @@ ModuleOutlineThickness=0.15
 [cvpcb]
 version=1
 NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=C:/Users/RICAUD/Documents/KiCad/defaut-layout.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=../../KiCad/Lib/symbols
@@ -63,13 +73,4 @@ LibName28=D:/jpr/projets/KiCad/Lib/symbols/graphic
 LibName29=D:/jpr/projets/KiCad/Lib/symbols/power
 LibName30=connectors/CPCI_connectors
 LibName31=resistors/resistors_0805
-[schematic_editor]
-version=1
-PageLayoutDescrFile=C:/Users/RICAUD/Documents/KiCad/defaut-layout.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName32=inductors/inductors_1210
