@@ -1,0 +1,31 @@
+### Module positions - created on 24/06/2015 15:06:30 ###
+### Printed by Pcbnew version pcbnew (2015-06-14 BZR 5747, Git dc9ebf3)-product
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       10nF-50V-10p-Cer SOLEIL-0805        70.9930    50.9270     270.0    top
+C4       100nF-50V-10p-Ce SOLEIL-0805        18.3515    32.8930       0.0    top
+C6       1nF-50V-10p-Cera SOLEIL-0805        44.0055    50.9270     270.0    top
+C7       100nF-50V-10p-Ce SOLEIL-0805        43.4975    32.8930       0.0    top
+C8       5pF-50V-10p-Cera SOLEIL-0805        30.4800    52.5780       0.0    top
+C9       5pF-50V-10p-Cera SOLEIL-0805        30.8610    64.3890       0.0    top
+C10      10nF-50V-10p-Cer SOLEIL-0805        27.7495    61.0870     180.0    top
+C11      10nF-50V-10p-Cer SOLEIL-0805        37.0205    54.9910       0.0    top
+C12      10nF-50V-10p-Cer SOLEIL-0805        18.7960    56.1340      90.0    top
+C17      2200pF-50V-5p-Ce SOLEIL-0805        57.5310    61.0870      90.0    top
+C18      2200pF-50V-5p-Ce SOLEIL-0805        46.2280    61.0870      90.0    top
+R1       0R-0.125W-1P-080 SOLEIL-0805        55.2450    50.9270     270.0    top
+R2       2K37-0.125W-1P-0 SOLEIL-0805        51.4985    48.7680      90.0    top
+R3       1K-0.125W-1P-080 SOLEIL-0805        47.7520    50.9270     270.0    top
+R4       2K2-0.125W-1P-08 SOLEIL-0805        39.1795    61.0870       0.0    top
+R5       470R-0.125W-1P-0 SOLEIL-0805        42.1005    67.6275      90.0    top
+R6       499R-0.125W-1P-0 SOLEIL-0805        37.0205    58.0390       0.0    top
+R7       215R-0.125W-1P-0 SOLEIL-0805        38.0365    47.4345     270.0    top
+R8       215R-0.125W-1P-0 SOLEIL-0805        38.3540    67.6275      90.0    top
+R9       1R2-0.125W-1P-08 SOLEIL-0805        34.2265    45.2755      90.0    top
+R10      1R2-0.125W-1P-08 SOLEIL-0805        34.6075    69.7865     270.0    top
+R11      51R-0.125W-1P-08 SOLEIL-0805        30.4800    45.2755      90.0    top
+R12      51R-0.125W-1P-08 SOLEIL-0805        30.8610    69.7865     270.0    top
+U1       LT6656ACS6-1.25  SOLEIL-SOT23-6     65.3415    48.2600       0.0    top
+U2       LTC6241HVCS8     SOLEIL-SOIC8NB     30.4800    55.6260       0.0    top
+## End

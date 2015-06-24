@@ -1,0 +1,17 @@
+### Module positions - created on 24/06/2015 15:06:30 ###
+### Printed by Pcbnew version pcbnew (2015-06-14 BZR 5747, Git dc9ebf3)-product
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C13      100nF-50V-10p-Ce SOLEIL-0805        38.6080    51.0540     270.0    bottom
+C14      100nF-50V-10p-Ce SOLEIL-0805        33.7693    64.1350       0.0    bottom
+C15      10nF-50V-10p-Cer SOLEIL-0805        26.1620    55.3720     180.0    bottom
+C16      10nF-50V-10p-Cer SOLEIL-0805        30.7975    64.3763      90.0    bottom
+R13      1K87-0.125W-1P-0 SOLEIL-0805        32.0675    48.8950      90.0    bottom
+R14      1K-0.125W-1P-080 SOLEIL-0805        35.2425    51.0540     270.0    bottom
+R15      1K58-0.125W-1P-0 SOLEIL-0805        39.1795    54.8005     180.0    bottom
+R16      1K58-0.125W-1P-0 SOLEIL-0805        39.1795    60.2615     180.0    bottom
+R17      0R-0.125W-1P-080 SOLEIL-0805        29.5275    45.2755     180.0    bottom
+R18      0R-0.125W-1P-080 SOLEIL-0805        29.5275    69.7865     180.0    bottom
+U3       LT6600CS8-2.5    SOLEIL-SOIC8NB     33.3375    54.8005     180.0    bottom
+## End

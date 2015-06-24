@@ -1,0 +1,35 @@
+Drill report for D:/jpr/projets/IQ_modulator/pcb/mono_to_diff.kicad_pcb
+Created on 23/06/2015 18:15:01
+
+Drill report for plated through holes :
+    T1  0.40mm  0.016"  (33 holes)
+    T2  1.50mm  0.059"  (4 holes)
+    T3  1.70mm  0.067"  (6 holes)
+    T4  1.70mm  0.067"  (16 holes)
+    T5  2.80mm  0.110"  (4 holes)
+
+Total plated holes count 63
+
+
+Drill report for buried and blind vias :
+
+Holes from layer Top-1.Cu to layer GND-2.Cu :
+
+Total plated holes count 0
+
+
+Holes from layer GND-2.Cu to layer VCC-3.Cu :
+
+Total plated holes count 0
+
+
+Holes from layer VCC-3.Cu to layer Bottom-4.Cu :
+
+Total plated holes count 0
+
+
+Drill report for unplated through holes :
+
+Total unplated holes count 0
+
+
